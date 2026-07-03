@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Prince%20Patel&fontSize=60&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Software%20Developer&descAlignY=58&descSize=18&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Prince%20Kumar&fontSize=60&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Software%20Developer&descAlignY=58&descSize=18&descColor=94a3b8" width="100%"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/prince-patel-430862290/">
+<a href="https://www.linkedin.com/in/prince-kumar-430862290/">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+full-stack+applications;MERN+Stack+%7C+System+Design+%7C+DSA;250%2B+LeetCode+Problems+Solved;Turning+ideas+into+production-ready+products&font=Fira+Code&center=true&width=650&height=50&color=38BDF8&vCenter=true&size=22&pause=1500&background=00000000" />
 </a>
 
@@ -117,11 +117,15 @@ Additional projects, experiments, and DSA practice repositories are available on
 
 <div align="center">
 
+<!-- Main stats card: total stars, commits, PRs, issues, contribution rank — pulled live from GitHub -->
 <img src="https://github-readme-stats.vercel.app/api?username=PrincePatel8755853189&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&count_private=true" width="48%" />
+
+<!-- Streak stats card: current streak, longest streak, total contributions -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrincePatel8755853189&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="48%" />
 
 <br/>
 
+<!-- Top languages card: compact breakdown of most-used languages across repos -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePatel8755853189&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" width="48%" />
 
 </div>
@@ -131,6 +135,11 @@ Additional projects, experiments, and DSA practice repositories are available on
 ## Achievements & Problem Solving
 
 <div align="center">
+
+<!-- Live LeetCode stats card: auto-updates rank, problems solved, and acceptance rate from your profile -->
+<img src="https://leetcard.jacoblin.cool/princekumaruiet?theme=dark&font=Fira%20Code&ext=heatmap&border=false&bg_color=0d1117" width="80%" />
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems%20Solved-38bdf8?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a"/>
 
@@ -149,11 +158,17 @@ Additional projects, experiments, and DSA practice repositories are available on
 <a href="mailto:pp4491997@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/prince-patel-430862290/">
+<a href="https://www.linkedin.com/in/prince-kumar-430862290/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/PrincePatel8755853189">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/princekumaruiet/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.instagram.com/prince__patel0707/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
