@@ -113,31 +113,13 @@ Additional projects, experiments, and DSA practice repositories are available on
 
 <br/>
 
-## GitHub Stats
 
-<div align="center">
-
-<!-- Main stats card: total stars, commits, PRs, issues, contribution rank — pulled live from GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=PrincePatel8755853189&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&count_private=true" width="48%" />
-
-<!-- Streak stats card: current streak, longest streak, total contributions -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrincePatel8755853189&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="48%" />
-
-<br/>
-
-<!-- Top languages card: compact breakdown of most-used languages across repos -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincePatel8755853189&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" width="48%" />
-
-</div>
-
-<br/>
 
 ## Achievements & Problem Solving
 
 <div align="center">
 
 <!-- Live LeetCode stats card: auto-updates rank, problems solved, and acceptance rate from your profile -->
-<img src="https://leetcard.jacoblin.cool/princekumaruiet?theme=dark&font=Fira%20Code&ext=heatmap&border=false&bg_color=0d1117" width="80%" />
 
 <br/><br/>
 
